@@ -1,3 +1,4 @@
+
 # Привет, меня зовут Виктория!
 
 ___________________________________________________________________
@@ -27,6 +28,8 @@ ________________________________________________________________________________
 ### Инструменты и технологии:
 #### 📁 Тестовая документация:
 [![](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/610e793d-e57a-4c93-ac30-ea5d7b97899e)]((https://www.atlassian.com/software/jira))
+[![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/96e6dd2c-32e6-4e71-ad42-c1eeb7fe47b7)
+]
 
 
     
