@@ -20,5 +20,6 @@ _________________________________________________________________________
    * [Чек-лист](https://docs.google.com/spreadsheets/d/1tih1Kef4iCzCyp1H8CpmFzoG2e_4z3B80Hja4hNamwM/edit#gid=1467047045)
    * [Тест-план](https://docs.google.com/document/d/1McHQyBIy573LE-Gf0O4XJcGtJwlPjqX3/edit?usp=sharing&ouid=112681048725283602554&rtpof=true&sd=true)
    * [Баг-репорт](https://docs.google.com/spreadsheets/d/1tih1Kef4iCzCyp1H8CpmFzoG2e_4z3B80Hja4hNamwM/edit#gid=546735674)
+ *[Коллекция в Postman]
     
 
