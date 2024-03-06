@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "da7eaa73-eca1-4f4b-85e1-280afc715390",
+		"name": "Y lab",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Минимально возможное валидное значение параметра date",
+			"id": "0c5e7df7-f853-47cd-a9c2-b4745a1e984b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Количество записей, возвращаемых в ответе на запрос к указанному API, за период, начало которого - это ответ из пункта 1 данной задачи, а конец - 16 июня 1996 года.",
+			"id": "5cadbbc2-51cf-455a-8b41-6a64693b8ebb",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
