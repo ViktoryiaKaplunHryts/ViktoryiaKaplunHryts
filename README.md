@@ -28,8 +28,7 @@ ________________________________________________________________________________
 ### Инструменты и технологии:
 #### 📁 Тестовая документация:
 [![](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/610e793d-e57a-4c93-ac30-ea5d7b97899e)]((https://www.atlassian.com/software/jira))
-[![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/65e5e7e6-dce6-42b0-9c35-3ae3b135b8ac)
-](https://www.figma.com/)
+[![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/f05225ad-a63c-42fa-9753-7e06f65fc839))](https://www.figma.com/)
 
 
     
