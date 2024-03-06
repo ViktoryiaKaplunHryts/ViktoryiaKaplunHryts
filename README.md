@@ -7,7 +7,7 @@ ___________________________________________________________________
 
 _____________________________________________________________________
 ### My CV
-[Каплун-Гриц Виктория Владимировна](https://drive.google.com/file/d/1ch_DnNU3ocwAl3SwiuuCOhqWsM2wkR2B/view?usp=sharing)
+[Каплун-Гриц Виктория Владимировна]([https://drive.google.com/file/d/1ch_DnNU3ocwAl3SwiuuCOhqWsM2wkR2B/view?usp=sharing](https://drive.google.com/file/d/1RtHB08lBMiIxBkDapWPZTnSpoCVQ508e/view?usp=sharing))
 
 _________________________________________________________________________
 ### Портфолио
