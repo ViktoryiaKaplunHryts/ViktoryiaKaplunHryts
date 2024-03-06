@@ -12,5 +12,5 @@ _____________________________________________________________________
 _________________________________________________________________________
 ### Портфолио
 * Тестовая документация
-  * [Тест-кейсы] (https://docs.google.com/spreadsheets/d/1tih1Kef4iCzCyp1H8CpmFzoG2e_4z3B80Hja4hNamwM/edit#gid=0)
+  * [Тест-кейсы](https://docs.google.com/spreadsheets/d/1tih1Kef4iCzCyp1H8CpmFzoG2e_4z3B80Hja4hNamwM/edit#gid=0)
 
