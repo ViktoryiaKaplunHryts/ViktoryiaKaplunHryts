@@ -1,7 +1,7 @@
 # Привет, меня зовут Виктория!
 
 ___________________________________________________________________
-👩🏻‍💻 Обо мне:
+👩🏻‍💻 ##Обо мне:
 <!--
 **ViktoryiaKaplunHryts/ViktoryiaKaplunHryts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
