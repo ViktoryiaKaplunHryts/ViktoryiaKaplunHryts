@@ -32,6 +32,7 @@ ________________________________________________________________________________
 [![image](https://img.icons8.com/?size=48&id=30461&format=png)](https://www.google.com/sheets/about)
 ### 🛠 Тестирование веб-приложений:
 ![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/3118ae7e-94e2-4407-8636-f2b8d60572c7)
+![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/7735d873-0ace-4820-b5b1-45e216886586)
 
 
 
