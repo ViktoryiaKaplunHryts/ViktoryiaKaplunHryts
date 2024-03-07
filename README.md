@@ -31,7 +31,8 @@ ________________________________________________________________________________
 [![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/1290841a-a1c8-4000-b819-ebbbaff4b2ea)](https://www.figma.com/)
 [![image](https://img.icons8.com/?size=48&id=30461&format=png)](https://www.google.com/sheets/about)
 ### 🛠 Тестирование веб-приложений:
-[https://camo.githubusercontent.com/be11ab1cf3e4b56fff12f3671a7c71132874aa3de3efb733ec167ba5c5769558/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f333862356339353361343636373336363638356435356462353564303537633836646231666335342f61306664632f7374617469632f61636165366232346439343033343736363163613930316561303766343763312f6368726f6d652d6465762d6c6f676f2d69636f6e2e706e67]
+[![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/084bcd6b-e0e6-43ed-809c-66a4a431b31f)
+]
 
 
 
