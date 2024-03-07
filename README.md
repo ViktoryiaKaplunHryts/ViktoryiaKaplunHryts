@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 ### 📁 Тестовая документация:
 
-<img src="https://github.com/qajenna/qajenna/raw/main/icons/Jira.png" title="Jira" alt="Jira" width="40" height="40" style="max-width: 100%;"><img src="https://img.icons8.com/?size=48&id=30461&format=png" title="Google Sheets" alt="Google Sheets" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" title="figma" alt="figma" width="38" height="38" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="38" height="40" style="max-width: 100%;">
+<img src="https://github.com/qajenna/qajenna/raw/main/icons/Jira.png" title="Jira" alt="Jira" width="40" height="40" style="max-width: 100%;"><img src="https://img.icons8.com/?size=48&id=30461&format=png" title="Google Sheets" alt="Google Sheets" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" title="figma" alt="figma" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40" style="max-width: 100%;">
 
 
 ### 🛠 Тестирование веб-приложений:
@@ -43,8 +43,11 @@ ________________________________________________________________________________
 
 ### ✏️ Работа с кодом:
 
-<img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" title="git" alt="git" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">  <img src= "https://skillicons.dev/icons?i=sublime" title="sublime" alt="sublime" width="40" height="40" > <img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" title="vscode" alt="vscode" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" title="git" alt="git" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">  <img src= "https://skillicons.dev/icons?i=sublime" title="sublime text" alt="sublime" width="40" height="40" > <img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" title="vscode" alt="vscode" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
+_______________________________________________________________________________________________
+### 💻 Сертификаты доп. образования:
 
+<img src="https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/5c5b9dd0-e2f1-49df-8c5e-ad622ec361f8"  width="297" height="210" style="max-width: 100%;"> 
 
 
 
