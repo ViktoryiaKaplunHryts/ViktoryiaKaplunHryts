@@ -30,6 +30,7 @@ ________________________________________________________________________________
 [![](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/610e793d-e57a-4c93-ac30-ea5d7b97899e)]((https://www.atlassian.com/software/jira))
 [![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/1290841a-a1c8-4000-b819-ebbbaff4b2ea)](https://www.figma.com/)
 [![image](https://img.icons8.com/?size=48&id=30461&format=png)](https://www.google.com/sheets/about)
+### 🛠 Тестирование веб-приложений:
 
 
 
