@@ -47,7 +47,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________
 ### 💻 Сертификаты доп. образования:
 
-<img src="https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/5c5b9dd0-e2f1-49df-8c5e-ad622ec361f8"  width="297" height="210" style="max-width: 100%;"> 
+<img src="https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/blob/main/2024-03-07_160910.png"  width="297" height="210" style="max-width: 100%;"> 
 
 
 
