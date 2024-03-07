@@ -31,6 +31,7 @@ ________________________________________________________________________________
 [![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/1290841a-a1c8-4000-b819-ebbbaff4b2ea)](https://www.figma.com/)
 [![image](https://img.icons8.com/?size=48&id=30461&format=png)](https://www.google.com/sheets/about)
 ### 🛠 Тестирование веб-приложений:
+<img src="https://camo.githubusercontent.com/be11ab1cf3e4b56fff12f3671a7c71132874aa3de3efb733ec167ba5c5769558/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f333862356339353361343636373336363638356435356462353564303537633836646231666335342f61306664632f7374617469632f61636165366232346439343033343736363163613930316561303766343763312f6368726f6d652d6465762d6c6f676f2d69636f6e2e706e67" title="devtools" alt="devtools" width="40" height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" style="max-width: 100%;">
 ![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/3118ae7e-94e2-4407-8636-f2b8d60572c7)
 
 
