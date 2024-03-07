@@ -5,6 +5,11 @@ ___________________________________________________________________
 ## 👩🏻‍💻 Обо мне:
 
  Я начинающий тестировщик.
+ * Закончила курсы QA Engineer, ментор Кротов Н.В.
+ * Закончила базовый курс изучения HTML и CSS, ментор Федорук К.
+ * В целях саморазвития прошла курсы тестирование ПО: Postman для тестирования API (Курс Константина Барзаковского, Stepiк), тестирование ПО с нуля, Теория + Практика (Курс Артема Русого, Stepik), SQL Introduction (курс Sergey Romanenko,Stepik)
+ * Учавствовала в интенсиве Y_LAB
+ * 📫 Как связаться со мной: <a href="https://t.me/vika8061986" rel="nofollow"><img src="https://camo.githubusercontent.com/d0cce4c333c794ff24a06dbecfdbaaa467679f6cd5e0c40a64d8d8f3e7aa033e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3030383863633f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
 
 _____________________________________________________________________
 ## ⚡ Резюме
