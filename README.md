@@ -16,7 +16,7 @@ _____________________________________________________________________
 [Каплун-Гриц Виктория Владимировна](https://drive.google.com/file/d/1RtHB08lBMiIxBkDapWPZTnSpoCVQ508e/view?usp=sharing)
 
 _________________________________________________________________________
-💻 ## Портфолио
+ ## 💻 Портфолио
  * Тестовая документация:
    * Тест-кейсы
      - [1](https://docs.google.com/spreadsheets/d/1x5IOOwmeDk8_j8h9JNgat-QDlpWBXn4vRY6Bbt46xGI/edit#gid=1321619541)
