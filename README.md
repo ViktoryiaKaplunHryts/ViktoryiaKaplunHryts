@@ -30,7 +30,7 @@ _________________________________________________________________________
     - [1](https://www.postman.com/martian-space-106676/workspace/y-lab/collection/29626994-da7eaa73-eca1-4f4b-85e1-280afc715390?action=share&creator=29626994)
     - [2](https://elements.getpostman.com/redirect?entityId=29626994-5381b1aa-c728-46bf-a055-0e4dedd004a5&entityType=collection)
 ___________________________________________________________________________________________________________________________________________________
-## Инструменты и технологии:
+## 🛠 Инструменты и технологии:
 ### 📁 Тестовая документация:
 <img src="https://github.com/qajenna/qajenna/raw/main/icons/Jira.png" title="Jira" alt="Jira" width="40" height="40" style="max-width: 100%;"><img src="https://img.icons8.com/?size=48&id=30461&format=png" title="Google Sheets" alt="Google Sheets" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" title="figma" alt="figma" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40" style="max-width: 100%;">
 
