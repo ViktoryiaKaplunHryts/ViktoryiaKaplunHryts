@@ -2,16 +2,16 @@
 # Привет, меня зовут Виктория!
 
 ___________________________________________________________________
-### 👩🏻‍💻 Обо мне:
+## 👩🏻‍💻 Обо мне:
 
 Я начинающий тестировщик.
 
 _____________________________________________________________________
-### My CV
+## My CV
 [Каплун-Гриц Виктория Владимировна](https://drive.google.com/file/d/1RtHB08lBMiIxBkDapWPZTnSpoCVQ508e/view?usp=sharing)
 
 _________________________________________________________________________
-### Портфолио
+## Портфолио
 * Тестовая документация:
   * Тест-кейсы
     - [1](https://docs.google.com/spreadsheets/d/1x5IOOwmeDk8_j8h9JNgat-QDlpWBXn4vRY6Bbt46xGI/edit#gid=1321619541)
@@ -25,8 +25,8 @@ _________________________________________________________________________
     - [1](https://www.postman.com/martian-space-106676/workspace/y-lab/collection/29626994-da7eaa73-eca1-4f4b-85e1-280afc715390?action=share&creator=29626994)
     - [2](https://elements.getpostman.com/redirect?entityId=29626994-5381b1aa-c728-46bf-a055-0e4dedd004a5&entityType=collection)
 ___________________________________________________________________________________________________________________________________________________
-### Инструменты и технологии:
-#### 📁 Тестовая документация:
+## Инструменты и технологии:
+### 📁 Тестовая документация:
 [![](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/610e793d-e57a-4c93-ac30-ea5d7b97899e)]((https://www.atlassian.com/software/jira))
 [![image](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/assets/158047373/1290841a-a1c8-4000-b819-ebbbaff4b2ea)](https://www.figma.com/)
 
