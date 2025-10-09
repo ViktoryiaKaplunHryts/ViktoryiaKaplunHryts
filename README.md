@@ -62,6 +62,7 @@ ________________________________________________________________________________
 ### Автоматизация:
 <img src="https://camo.githubusercontent.com/9b72691f302cb60732aed99a3875c51d749eb9d33f10ac16b3818937160c2e6b/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f7468756d62732f6a6176612d6c6f676f2d766563746f722d312e737667" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="60" height="60" style="max-width: 100%;">
 _______________________________________________________________________________________________
+
 ### 📁 Сертификаты доп. образования:
 <img src="https://github.com/ViktoryiaKaplunHryts/About-me/blob/main/certificates/2024-03-07_160910.png"  width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/ViktoryiaKaplunHryts/About-me/blob/main/certificates/Screenshot2.png" width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/ViktoryiaKaplunHryts/About-me/blob/main/certificates/Screenshot3.png" width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/ViktoryiaKaplunHryts/About-me/blob/main/certificates/Screenshot4.png" width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/ViktoryiaKaplunHryts/About-me/blob/main/certificates/2024-03-06_102414.png" width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/blob/main/certificates/Screenshot_17.png"  width="297" height="210" style="max-width: 100%;">
 
